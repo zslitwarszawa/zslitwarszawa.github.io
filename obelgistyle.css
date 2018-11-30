@@ -1,0 +1,39 @@
+body {
+	background-color: #660099;
+}
+
+.klik {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+	color: #FFCCFF;
+}
+.klik:hover {
+    background-color: #FFCCFF;
+    color: white;
+}
+
+h2 {
+	color: #FFCCFF;
+}
+
+#obelga {
+		color: white;
+		text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+}
+
+#obelga:hover {
+    color: white;
+	text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+}
+
+.nag {
+	color: white;
+}
+
+h4 {
+	color: #FFCCFF;
+}
