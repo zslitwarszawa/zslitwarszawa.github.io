@@ -1,0 +1,32 @@
+.wrozba
+{
+    position: relative;
+    float: left;
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+}
+#result{
+    position: absolute;
+    transition: 5s;
+    left: 0;
+    min-width: 10000000000000000px;;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+#kreska{
+    position: absolute;
+    left: 50%;
+    min-width: 5px;
+    min-height: 30px;
+    background-color: red;
+}
+
+#autorzy{
+    position: absolute;
+    left: 15%;
+    top: 0px;
+}
